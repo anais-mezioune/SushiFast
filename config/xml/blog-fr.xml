@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>FR - Blog ecommerce par PrestaShop</title>
+	<atom:link href="http://www.prestashop.com/blog/fr/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.prestashop.com/blog/fr</link>
+	<description></description>
+	<lastBuildDate>Mon, 27 Apr 2015 10:05:38 +0000</lastBuildDate>
+	<language>fr-FR</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.1</generator>
+	<item>
+		<title>Design de site e-commerce : la structure de votre page d’accueil</title>
+		<link>https://www.prestashop.com/blog/fr/design-site-e-commerce-structure-page-daccueil/</link>
+		<comments>https://www.prestashop.com/blog/fr/design-site-e-commerce-structure-page-daccueil/#comments</comments>
+		<pubDate>Mon, 27 Apr 2015 10:05:38 +0000</pubDate>
+		<dc:creator><![CDATA[Juan Manuel Molina]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=18628</guid>
+		<description><![CDATA[<p>Moderniser le design de votre boutique en ligne est plus simple que vous ne l’imaginez. Vous devez avoir clairement défini la structure avant de décider des couleurs, des polices de caractères et des images. Pour ce faire, posez-vous les questions suivantes : Quels sont les éléments indispensables à mes clients ? Où et comment puis-je [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/design-site-e-commerce-structure-page-daccueil/">Design de site e-commerce : la structure de votre page d’accueil</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Moderniser le design de votre boutique en ligne est plus simple que vous ne l’imaginez. Vous devez avoir clairement défini la structure avant de décider des couleurs, des polices de caractères et des images. Pour ce faire, posez-vous les questions suivantes :</p>
+<ul style="padding-left:30px">
+<li>Quels sont les éléments indispensables <strong>à mes clients ?</strong></li>
+<li>Où et comment puis-je positionner ces éléments ?</li>
+</ul>
+<p>Dans la plupart des cas, l’ordre des éléments sur votre page dépend de l’importance de ces derniers et de l’utilisation qu’en feront vos utilisateurs. Pour mieux connaître vos clients, <a href="https://www.prestashop.com/blog/fr/comment-elaborer-des-personas-pour-le-marketing-e-commerce-b2c/">définissez tout d’abord le profil de votre client idéal</a>.</p>
+<p>Dans ce post, nous allons lister les éléments indispensables à la page d’accueil de toute boutique en ligne. Adaptez-les à vos besoins et créez ainsi une page d’accueil qui générera de nombreuses ventes tout en renforçant votre image de marque.<br />
+<span id="more-18628"></span></p>
+<h2 style="color: #2b2b2b"><img style="margin-right: 2px" alt="search" src="http://www.prestashop.com/blog/fr/files/2015/04/Search.png" width="50" height="50" /> Barre de recherche</h2>
+<p><a href="http://addons.prestashop.com/fr/voyage/19445-traveler-prestashop-16-responsive-theme.html" target="_blank"><img src="http://www.prestashop.com/blog/fr/files/2015/04/searchbar1-1024x537.jpg" alt="searchbar1" width="700" height="367" class="aligncenter size-large wp-image-12827" /></a></p>
+<p><a href="http://addons.prestashop.com/fr/gastronomie-alimentation/19451-sushi-house-16-responsive.html" target="_blank"><img src="http://www.prestashop.com/blog/fr/files/2015/04/searchbar2-1024x537.jpg" alt="searchbar2" width="700" height="367" class="aligncenter size-large wp-image-12828" /></a></p>
+<p>Facilitez la recherche de vos produits en plaçant votre barre de recherche au centre ou en haut à gauche de votre page, pour une visibilité optimale. La plupart de vos clients savent déjà ce dont ils ont besoin ; donnez-leur donc l’opportunité de le trouver rapidement.</p>
+<p>Dans la version mobile du site Internet, essayez de placer la barre de recherche le plus haut possible sur votre page. Juste après le logo et, idéalement, à côté de l’icône du menu.</p>
+<p>Bonus : Vous pouvez offrir la possibilité d’ajouter directement le produit dans le panier depuis la page de résultats.</p>
+<h2 style="color: #2b2b2b"><img style="margin-right: 2px" alt="shopping" src="http://www.prestashop.com/blog/fr/files/2015/04/Shopping.png" width="50" height="50" /> Panier d’achat</h2>
+<p><a href="https://www.mackweldon.com/cart" target="_blank"><img src="http://www.prestashop.com/blog/fr/files/2015/04/shopping-cart-1024x537.jpg" alt="shopping-cart" width="700" height="367" class="aligncenter size-large wp-image-12830" /></a></p>
+<p>Ajouter des produits au panier peut être très amusant&#8230;voire addictif ! Utilisez les techniques du design émotionnel et transformez l’expérience d’achat en un moment agréable et même amusant. Offrez à vos clients une expérience agréable pour qu’ils se souviennent de vous plus longtemps et de façon positive.</p>
+<p>Si votre image de marque le permet, adaptez le ton et la terminologie de votre panier et de vos boutons d’action selon la catégorie de vos produits, l’époque de l’année, les campagnes promotionnelles, etc. Lorsque cela est possible <strong>vous pouvez faire preuve d’humour</strong> dans les barres d’état et les notifications par exemple.</p>
+<p>L’humour dans votre contenu est très important mais <strong>n’oubliez pas de maintenir la cohérence du design des boutons et des liens</strong> pour ne pas dérouter vos clients.</p>
+<p>Bonus : Gamification : incitez vos clients à ajouter plus de produits dans le panier : par exemple, indiquez dans une <a href="https://www.mackweldon.com/cart" target="_blank">barre de progression</a> combien il manque pour obtenir les frais d’envoi gratuits, ou débloquez des « niveaux » selon les produits ajoutés (Ex : novice, intermédiaire, expert).</p>
+<h2 style="color: #2b2b2b"><img style="margin-right: 2px" alt="slider" src="http://www.prestashop.com/blog/fr/files/2015/04/Slider.png" width="50" height="50" /> Diaporama (Slider) :</h2>
+<p>Il doit contenir 3 diapositives au maximum, l’idéal étant de se limiter à une seule diapositive fixe. Servez-vous-en pour afficher les promotions temporaires, les nouveautés et les sélections de produits. Mieux encore, mettez en valeur les produits en promotion adaptés à une campagne temporaire (fête des pères, des mères, Noël, rentrée scolaire, etc.)</p>
+<p>Le diaporama doit toujours afficher clairement ce que vous vendez sur votre site Internet. <strong>Mettez vos produits en situation</strong> en plaçant en arrière-plan une image engageante occupant toute la surface. Ajoutez-y un bouton d’action intéressant et adapté au contenu de la promotion.</p>
+<p>Bonus : Retrouvez quelques-uns de nos meilleurs exemples d’images pour diaporamas plein écran dans notre article <a href="https://www.prestashop.com/blog/fr/design-e-commerce-5-tendances-2015/">5 tendances de design E-commerce pour 2015</a>.</p>
+<h2 style="color: #2b2b2b"><img style="margin-right: 2px" alt="menu" src="http://www.prestashop.com/blog/fr/files/2015/04/Menu.png" width="50" height="50" /> Menu</h2>
+<p><a href="http://www.bershka.com/" target="_blank"><img src="http://www.prestashop.com/blog/fr/files/2015/04/menu-1024x537.jpg" alt="menu" width="700" height="367" class="aligncenter size-large wp-image-12822" /></a></p>
+<p>Le menu est la première chose que votre utilisateur verra en arrivant sur votre site. Ou pas. S’il navigue depuis un téléphone mobile, il est préférable de lui offrir la possibilité de réaliser une recherche via un menu sous forme de bouton déroulant, beaucoup plus attrayant.</p>
+<p>Il est plus facile de naviguer sur des écrans plus grands. De plus, l’espace permet d’afficher tous les éléments du menu. Mais ne vous laissez pas emporter : ne surchargez pas votre menu ! <strong>Idéalement, il doit contenir 3 éléments, 7 au maximum.</strong></p>
+<p>Attachez-vous à montrer les groupes hiérarchiques les plus importants de votre produit :</p>
+<p>Par ex. HOMME, FEMME, ENFANT. </p>
+<p>Si vous détectez que votre site attire beaucoup de visiteurs pour un produit en particulier, n’hésitez pas à l’ajouter à cet endroit : CHAUSSURES, ÉCHARPES ou SACS sont des exemples de sous-catégories que vous pourriez utiliser dans le menu principal. CADEAUX, VACANCES ou NOUVEL AN peuvent parfaitement constituer des éléments de votre menu selon l’époque de l’année. Le nom de votre campagne ou de la collection actuelle également.</p>
+<p>Faites en sorte que les éléments de votre menu soient le plus court possible. Dès que possible, utilisez un mot plutôt que deux.</p>
+<p>Si vous avez un blog, il pourrait également être intéressant de le faire apparaître dans le menu.</p>
+<p>Dans la version PrestaShop 1.6, vous pouvez configurer des sous-menus déroulants enrichis, dans lesquels apparaissent les produits de la catégorie ainsi que des bannières promotionnelles.</p>
+<p>Bonus : Les pages « qui sommes-nous » « entreprise », « histoire », etc. doivent être placées en dehors du menu. Le meilleur emplacement est le bas de page. De plus, c’est aussi là où les utilisateurs ont l’habitude de les trouver.</p>
+<h2 style="color: #2b2b2b"><img style="margin-right: 2px" alt="filters" src="http://www.prestashop.com/blog/fr/files/2015/04/Filters.png" width="50" height="50" /> Filtres de recherche (Navigation à facette)</h2>
+<p><a href="http://addons.prestashop.com/fr/mode-chaussures/19484-watches-store.html" target="_blank"><img src="http://www.prestashop.com/blog/fr/files/2015/04/products-1024x537.jpg" alt="Products" width="700" height="367" class="aligncenter size-large wp-image-12825" /></a></p>
+<p>Elles s’utilisent normalement sur les pages catégorie et les pages produits mais peuvent également s’utiliser sur la page d’accueil.</p>
+<p>Filtres par taille, couleur, époque de l’année, occasion, différentes utilisations, façon de cuisiner, etc. Ajoutez tous les filtres qui correspondent à votre produit. Il est parfois préférable de faire référence à l’utilisation plutôt qu’à l’objet en tant que tel. </p>
+<p>Poêles -&gt; pour faire frire<br />
+Casseroles -&gt; pour faire bouillir</p>
+<p>Prêtez attention aux habitudes de vos utilisateurs pour déterminer les filtres les plus adaptés à votre produit.</p>
+<p>En ce qui concerne leur position : il est judicieux qu&rsquo;ils soient déroulants. Si l’écran est très grand, vous pouvez les afficher de façon permanente dans la marge à droite de l’écran, en guise de navigation.</p>
+<p>Bonus : Affichez un filtre par défaut sur la page d’accueil lorsque l’écran de votre utilisateur est supérieur à 1280px de large.</p>
+<h2 style="color: #2b2b2b"><img style="margin-right: 2px" alt="products" src="http://www.prestashop.com/blog/fr/files/2015/04/Product.png" width="50" height="50" />Produits de la page d’accueil</h2>
+<p><strong>Affichez vos produits les plus intéressants sur la page d’accueil</strong>, si vous avez une bonne raison de le faire. Il s&rsquo;agit d&rsquo;une stratégie idéale <strong>pour obtenir une double entrée</strong> (depuis le menu ou depuis la page d’accueil) à vos pages produit. </p>
+<p>Il est important d’indiquer clairement à l’aide d’un petit titre ou d’une étiquette pourquoi le produit apparaît sur la page d’accueil. Voici quelques exemples d’étiquettes intéressantes : nouveautés, meilleures ventes, promotions, dernières unités en stock, etc. Spécifiez à chaque fois l’exclusivité ou le temps limité du groupe de produits.</p>
+<p>Bonus : Affichez 10 produits au maximum et activez l’option « aperçu rapide du produit » afin que votre client puisse naviguer facilement entre les produits sans avoir à cliquer exagérément. Il les ajoutera à son panier presque sans s’en rendre compte !</p>
+<h2 style="color: #2b2b2b"><img style="margin-right: 2px" alt="Categories" src="http://www.prestashop.com/blog/fr/files/2015/04/Categories.png" width="50" height="50" /> Catégories</h2>
+<p><a href="http://www.reebok.com/" target="_blank"><img src="http://www.prestashop.com/blog/fr/files/2015/04/categories-1024x537.jpg" alt="categories" width="700" height="367" class="aligncenter size-large wp-image-12816" /></a></p>
+<p>Toujours d’après la stratégie de la <strong>double entrée</strong>, ajoutez un bloc illustrant vos catégories avec des images ou des icônes.</p>
+<p>Bonus : Sectionnez vos catégories ou sous-catégories les plus importantes et, dès que possible, actualisez-les avec des promotions ou des sélections de produits.</p>
+<h2 style="color: #2b2b2b"><img style="margin-right: 2px" alt="Social Media" src="http://www.prestashop.com/blog/fr/files/2015/04/Socialmedia.png" width="50" height="50" /> Médias sociaux</h2>
+<p><strong>Avant le bas de page</strong>, ajoutez une ou plusieurs sections permettant à vos clients de vérifier que vous êtes un marchand de confiance. Rien de mieux pour cela que lire et voir les opinions d’autres clients.</p>
+<p><strong>Faites apparaître les icônes de réseaux sociaux</strong>, des témoignages ou des articles générés par vos clients.</p>
+<p>Par exemple, une section affichant des photos avec le hashtag de votre dernière campagne et mélangées aux photos du book officiel de la marque ou encore des photos des recettes de votre blog, réalisées par vos utilisateurs à l’aide de vos appareils.</p>
+<p>Utilisez tout ce qui vous vient à l&rsquo;esprit pour montrer que vous avez un public <a href="http://www.westelm.com/?cm_type=gnav&amp;cm_sp=GlobalLinks-_-Topnav-_-WestElmLogo" target="_blank">qui vous adore</a>.</p>
+<h2 style="color: #2b2b2b"><img style="margin-right: 2px" alt="Social Media" src="http://www.prestashop.com/blog/fr/files/2015/04/Footer.png" width="50" height="50" /> Footer (Bas de page)</h2>
+<p><a href="http://www.leslipfrancais.fr/" target="_blank"><img src="http://www.prestashop.com/blog/es/files/2015/04/footer-1024x537.jpg" alt="footer" width="700" height="367" class="aligncenter size-large wp-image-12819" /></a></p>
+<p>Ajoutez ici les <strong>options de contact</strong>, à côté des liens menant à vos réseaux sociaux. Cet espace doit afficher clairement toutes les <strong>conditions de votre site</strong>, particulièrement celles <strong>relatives aux envois et aux retours</strong>.<br />
+N’hésitez pas à insérer un champ Newsletter pour que vos utilisateurs reçoivent de vos nouvelles par e-mail et si possible, précisez la fréquence de l’envoi.</p>
+<p>Profitez également de cet espace pour indiquer les systèmes de sécurité et de fiabilité utilisés, en toute discrétion. Si possible, ajoutez des symboles en noir et blanc, pour ne pas trop désorienter vos utilisateurs.</p>
+<h2 style="color: #2b2b2b">Conclusion</h2>
+<p>Le design et l’organisation de votre page d’accueil déterminent la première impression que vos clients auront de votre site Internet et de votre marque. Il est important que vous présentiez un site à l’aspect soigné et professionnel ; il s’agit d’une opportunité non négligeable de gagner en notoriété, d’inspirer confiance et de réduire le taux de rebond.</p>
+<p>Si vous souhaitez le faire vous-même, suivez ce guide. Dans notre prochain article vous en apprendrez plus sur le design d’une boutique en ligne : la structure des pages catégorie et des pages produit.</p>
+<p>Vous pouvez également jeter un œil aux <a href="http://addons.prestashop.com/fr/3-themes-prestashop" target="_blank">thèmes</a> mis en ligne par PrestaShop. Si aucun d’entre eux n’est adapté à votre activité, <a href="https://www.prestashop.com/fr/agences-web-partenaires">nos agences web partenaires</a> seront ravies de pouvoir vous aider.</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/design-site-e-commerce-structure-page-daccueil/">Design de site e-commerce : la structure de votre page d’accueil</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/design-site-e-commerce-structure-page-daccueil/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>5 astuces pour réussir votre campagne promotionnelle</title>
+		<link>https://www.prestashop.com/blog/fr/5-astuces-reussir-campagne-promotionnelle/</link>
+		<comments>https://www.prestashop.com/blog/fr/5-astuces-reussir-campagne-promotionnelle/#comments</comments>
+		<pubDate>Mon, 27 Apr 2015 08:30:05 +0000</pubDate>
+		<dc:creator><![CDATA[Kate Robinson]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=18594</guid>
+		<description><![CDATA[<p>Aucune entreprise ne peut ou ne doit se reposer uniquement sur les promotions pour communiquer et établir des liens avec ses clients. Néanmoins, ce type d&#8217;initiative est important pour construire des relations. Lorsqu&#8217;elles font partie de stratégies marketing intégrées, les campagnes promotionnelles contribuent à booster le trafic, renforcer la visibilité et générer des ventes. Les [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/5-astuces-reussir-campagne-promotionnelle/">5 astuces pour réussir votre campagne promotionnelle</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Aucune entreprise ne peut ou ne doit se reposer uniquement sur les promotions pour communiquer et établir des liens avec ses clients. Néanmoins, ce type d&rsquo;initiative est important pour construire des relations. Lorsqu&rsquo;elles font partie de <a href="http://smallbusiness.chron.com/importance-integrated-marketing-communications-73248.html" target="_blank">stratégies marketing intégrées</a>, les campagnes promotionnelles contribuent à booster le trafic, renforcer la visibilité et générer des ventes.</p>
+<p>Les cinq astuces présentées dans l&rsquo;article d&rsquo;aujourd&rsquo;hui devraient vous donner des idées pour élaborer votre prochaine campagne.<br />
+<span id="more-18594"></span></p>
+<h2 style="color: #fd5a0f">1/ Cernez vos destinataires</h2>
+<p>Avant de vous lancer dans la planification d&rsquo;une campagne emailing ou dans la conception de pop-up pour votre page d&rsquo;accueil, prenez le temps de réfléchir à votre public cible et à vos objectifs. Votre clientèle est probablement diversifiée. Si ce n&rsquo;est pas encore fait, vous devez donc définir les différents segments qui la constituent et <a href="https://www.prestashop.com/blog/fr/comment-elaborer-des-personas-pour-le-marketing-e-commerce-b2c/">créer des profils d&rsquo;acheteurs adaptés</a>.</p>
+<p>Identifiez les besoins de vos clients et leurs attentes vis-à-vis de votre produit.</p>
+<p>Vraisemblablement, cela devrait varier selon le segment. Gardez ces éléments en tête tandis que vous créez un contenu personnalisé, adapté à votre clientèle cible.</p>
+<p>Penchez-vous également sur vos objectifs.</p>
+<ul style="padding-left: 30px">
+<li>Souhaitez-vous uniquement booster vos ventes et votre trafic ?</li>
+<li>Cherchez-vous simplement à écouler les stocks de produits qui se vendent difficilement ?</li>
+<li>Ou voulez-vous également consolider votre base de prospects ? (Si c&rsquo;est le cas, vous devrez inclure à votre campagne une stratégie de collecte d&rsquo;adresses e-mail et d&rsquo;autres informations client.)</li>
+</ul>
+<h2 style="color: #fd5a0f">2/ Choisissez le bon moment</h2>
+<p>Les campagnes promotionnelles sont souvent liées à des fêtes ou à des évènements majeurs, comme la rentrée des classes, ou Noël. Vous pouvez aussi mettre en place des ventes flash ou des offres spéciales pour récompenser vos clients de manière plus personnalisée. Si vous ne savez pas vraiment par où commencer, jetez un œil du côté de vos concurrents et posez-vous les questions suivantes :</p>
+<ul style="padding-left: 30px">
+<li>Votre campagne est-elle similaire à une campagne déjà en cours ?</li>
+<li>Pouvez-vous vous démarquer grâce à une offre plus intéressante ?</li>
+<li>Quel est l&rsquo;aspect visuel de la campagne concurrente, et comment allez-vous rendre la vôtre plus attrayante ?</li>
+<li>Quel est votre budget ? Quelles sont vos ressources ?</li>
+<li>Etes-vous en mesure de créer l&rsquo;ensemble des supports marketing vous-même ?</li>
+<li>Allez-vous faire appel à un graphiste ou à un photographe ?</li>
+<li>Avez-vous le temps de gérer l&rsquo;aspect emailing de votre campagne ?</li>
+</ul>
+<h2 style="color: #fd5a0f">3/ Planifiez</h2>
+<p>Une fois que vous avez défini votre public cible et la date de lancement de votre campagne, <a href="http://addons.prestashop.com/fr/375-calendrier-e-commerce" target="_blank">commencez à établir un calendrier</a>. Si votre campagne est axée sur une fête en particulier, il faudra préparer votre contenu en amont. Ainsi, vous pourrez éveiller la curiosité de vos clients avec des offres et des produits plusieurs semaines avant la date de l&rsquo;évènement. Vous l&rsquo;aurez compris : n&rsquo;attendez pas le 1er février pour réfléchir aux promotions spéciales Saint Valentin. Pour élaborer votre plan, posez-vous les questions suivantes :</p>
+<ul style="padding-left: 30px">
+<li>Quelle offre incitative allez-vous proposer à vos clients ?</li>
+<li>A quel rythme allez-vous communiquer avec vos clients pendant cette période de promotion ?</li>
+</ul>
+<p>Servez-vous de vos profils d&rsquo;acheteur cible pour créer des messages personnalisés que vous diffuserez sur différents canaux de communication.</p>
+<h2 style="color: #fd5a0f">4/ Harmonisez les messages sur tous vos canaux</h2>
+<p>Pour optimiser l&rsquo;impact de votre campagne promotionnelle, réfléchissez à la façon dont vous la mettrez en avant sur les différents canaux de communication, par exemple en adaptant le message au support (site Web, e-mail, réseaux sociaux ou médias traditionnels). Il peut être judicieux de déployer votre campagne en plusieurs phases, en éveillant la curiosité sur les réseaux sociaux et en envoyant des e-mails ciblés contenant des offres de très courte durée, qui encouragent vos clients à réagir rapidement. La cohérence est un élément clé pour promouvoir une image crédible et fiable, ce qui influencera à long terme la perception de votre marque par les clients.</p>
+<h2 style="color: #fd5a0f">5/ Observez, testez, améliorez</h2>
+<p>Exploitez les outils d&rsquo;analyse pour rassembler des données sur l&rsquo;efficacité de votre campagne auprès des différents segments de clients. Servez-vous des tests A/B pour tester diverses variantes pour les e-mails, pages d&rsquo;accueil et incitations à l&rsquo;action. Gardez en tête que tout cela peut prendre un certain temps, et ne vous inquiétez pas si vous n&rsquo;obtenez pas les résultats escomptés immédiatement. Pour identifier ce qui fonctionne, une seule solution : collecter les données et comparer les impacts de vos changements. N&rsquo;oubliez pas de définir la période pendant laquelle votre campagne se déroulera. Cela vous permettra d&rsquo;évaluer l&rsquo;influence de la durée et du moment de l&rsquo;année lorsque vous analyserez les données collectées.</p>
+<p>Vous avez des astuces pour réussir vos campagnes qui ne figurent pas dans l&rsquo;article ? Faites en profiter la communauté en les partageant dans les commentaires. Prêt à réussir le lancement de votre magasin en ligne ? N&rsquo;attendez plus, essayez PrestaShop !</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/5-astuces-reussir-campagne-promotionnelle/">5 astuces pour réussir votre campagne promotionnelle</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/5-astuces-reussir-campagne-promotionnelle/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Gagnez une évaluation gratuite de votre site e-commerce !</title>
+		<link>https://www.prestashop.com/blog/fr/gagnez-evaluation-gratuite-site-e-commerce/</link>
+		<comments>https://www.prestashop.com/blog/fr/gagnez-evaluation-gratuite-site-e-commerce/#comments</comments>
+		<pubDate>Wed, 22 Apr 2015 08:30:54 +0000</pubDate>
+		<dc:creator><![CDATA[Kate Robinson]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=18389</guid>
+		<description><![CDATA[<p>Gérer sa boutique en ligne représente beaucoup de travail, et nous sommes les premiers à le reconnaître. Il est facile de perdre le fil avec tant de priorités à gérer. Où en êtes-vous? Votre site est-il assez attractif ? Proposez-vous une expérience inédite qui incite vos visiteurs à revenir ou partent-ils avant même d’avoir passer [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/gagnez-evaluation-gratuite-site-e-commerce/">Gagnez une évaluation gratuite de votre site e-commerce !</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Gérer sa boutique en ligne représente beaucoup de travail, et nous sommes les premiers à le reconnaître.</p>
+<p>Il est facile de perdre le fil avec tant de priorités à gérer. Où en êtes-vous? Votre site est-il assez attractif ? Proposez-vous une expérience inédite qui incite vos visiteurs à revenir ou partent-ils avant même d’avoir passer commande?</p>
+<p>Le début de l’année est le moment idéal pour prendre du recul et évaluer votre boutique avant le rush des soldes et de la rentrée. Pour vous aider à porter un nouveau regard sur votre site, nous venons de lancer un projet d’évalution gratuite, “L’évaluation du mois.”<span id="more-18389"></span></p>
+<p>Chaque mois, un e-commerçant bénéficera d’une évaluation approfondie de son site par nos experts e-commerce. Ils releveront les points forts de votre boutique et suggèreront des pistes d’amélioration pour attirer plus de clients et rendre votre activité plus perenne. La boutique du mois sera mise en avant sur notre blog.</p>
+<p>Voici quelques thèmes abordés lors de l’évaluation:</p>
+<ul style="margin-left: 30px; font-style: italic;">
+<li>Le trafic</li>
+<li>Les conversions</li>
+<li>L’expérience utilisateur</li>
+<li>Les visuels des produits</li>
+<li>La fidélisation client</li>
+</ul>
+<p>Nous publions les évaluations pour que l’ensemble de la communauté puisse bénéficier de conseils et bonnes pratiques.</p>
+<p>Les recommandations personnalisées vous intéressent ? Envoyez-nous un mail à <a href="mailto:ecommerce-evaluation@prestashop.com">ecommerce-evaluation@prestashop.com</a> avec l&rsquo;URL de votre site pour avoir l’opportunité d’obtenir une évaluation gratuite de votre boutique en ligne !</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/gagnez-evaluation-gratuite-site-e-commerce/">Gagnez une évaluation gratuite de votre site e-commerce !</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/gagnez-evaluation-gratuite-site-e-commerce/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>Visite guidée au cœur des nouveaux bureaux de PrestaShop à Paris</title>
+		<link>https://www.prestashop.com/blog/fr/visite-guidee-au-coeur-nouveaux-bureaux-prestashop-paris/</link>
+		<comments>https://www.prestashop.com/blog/fr/visite-guidee-au-coeur-nouveaux-bureaux-prestashop-paris/#comments</comments>
+		<pubDate>Mon, 20 Apr 2015 13:54:33 +0000</pubDate>
+		<dc:creator><![CDATA[Camille Sila]]></dc:creator>
+				<category><![CDATA[Actualités PrestaShop]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=18599</guid>
+		<description><![CDATA[<p>En avril 2007 naissait PrestaShop, depuis, 8 années se sont écoulées, 230 000 boutiques ont été créées et 800 000 membres de la communauté fédérés. La vie de PrestaShop a été rythmée par de nombreux moments forts, nul doute que le 31 mars 2015 sera également à marquer d’une pierre blanche. Ce jour-là les 115 [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/visite-guidee-au-coeur-nouveaux-bureaux-prestashop-paris/">Visite guidée au cœur des nouveaux bureaux de PrestaShop à Paris</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>En avril 2007 naissait PrestaShop, depuis, 8 années se sont écoulées, 230 000 boutiques ont été créées et 800 000 membres de la communauté fédérés. La vie de PrestaShop a été rythmée par de nombreux moments forts, nul doute que le 31 mars 2015 sera également à marquer d’une pierre blanche. Ce jour-là les 115 employés de PrestaShop Paris ont pu découvrir des locaux flambants neufs qui respirent la convivialité à l’image de l’ambiance qui règne au sein des équipes.</p>
+<p>Aujourd’hui plongez avec nous dans l’univers #PrestaShopHQ&#8230;</p>
+<p>Impossible de se tromper de bâtiment, une gigantesque banderole était là pour accueillir les équipes ce 31 mars.<br />
+<span id="more-18599"></span></p>
+<p><img class="aligncenter size-large wp-image-19891" alt="Banner" src="http://www.prestashop.com/blog/fr/files/2015/04/Banner-1024x276.jpg" /></p>
+<p>Dès vos premiers pas dans les locaux vous êtes plongé dans la philosophie de travail propre à PrestaShop.</p>
+<p><img class="aligncenter size-full wp-image-19901" alt="Work like a Captain Play like a Pirate" src="http://www.prestashop.com/blog/fr/files/2015/04/work-like.jpg" width="1026" height="684" /></p>
+<p>Les bureaux sont organisés en open space spacieux et conviviaux pour favoriser la communication entre les équipes.</p>
+<p><img class="aligncenter size-full wp-image-19895" alt="offices" src="http://www.prestashop.com/blog/fr/files/2015/04/IMG_2902.jpg" width="1026" height="684" /></p>
+<p>La cafet’ est le point de rencontre des équipes. Ses murs sont habillés par quelques-uns des nombreux graphs réalisés par des street artists tout spécialement pour PrestaShop. © tacks et nix</p>
+<p><img class="aligncenter size-full wp-image-19894" alt="Kitchen" src="http://www.prestashop.com/blog/fr/files/2015/04/cafêt.jpg" width="1026" height="684" /></p>
+<p>Mais qui voilà ? Nous vous présentons Preston, la dernière recrue PrestaShop ! Il fait désormais partie intégrante de la famille !</p>
+<p><img class="aligncenter size-full wp-image-19897" alt="Puffin code" src="http://www.prestashop.com/blog/fr/files/2015/04/Puffin-code.jpg" width="1026" height="684" /></p>
+<p>Il aime changer de forme, on le retrouve ainsi dans toutes les pièces arborant différents habits de lumière.</p>
+<div class="row">
+<div class="col-sm-4 col-xs-12"><img class="aligncenter size-full wp-image-19899" alt="Yoda Puffin" src="http://www.prestashop.com/blog/fr/files/2015/04/puffin-yoda.jpg" width="1026" height="684" /></div>
+<div class="col-sm-4 col-xs-12"><img class="aligncenter size-full wp-image-19900" alt="Puffins" src="http://www.prestashop.com/blog/fr/files/2015/04/puffins.jpg" width="1026" height="684" /></div>
+<div class="col-sm-4 col-xs-12"><img class="aligncenter size-full wp-image-19898" alt="puffin hipster" src="http://www.prestashop.com/blog/fr/files/2015/04/puffin-hip.jpg" width="1026" height="684" /></div>
+</div>
+<p>Attention vous entrez dans une zone de convivialité intense! Ici on se retrouve autour d’une partie de babyfoot ou de jeux vidéo pour se défouler avant de retourner travailler…©kuhuru</p>
+<p><img class="aligncenter size-full wp-image-19893" alt="Bungalow" src="http://www.prestashop.com/blog/fr/files/2015/04/bungalow.jpg" width="1026" height="684" /></p>
+<p>Et pour ceux qui souhaitent un peu de calme il est aussi possible de faire une petite sieste pour repartir du bon pied.</p>
+<p><img class="aligncenter size-full wp-image-19892" alt="Break" src="http://www.prestashop.com/blog/fr/files/2015/04/break.jpg" width="1026" height="684" /></p>
+<p>Un habitant à quatre pattes a également rejoint les équipes, c&rsquo;est notre nouvelle mascotte : Puff Daddy.</p>
+<p><img class="aligncenter size-full wp-image-19896" alt="Puff Daddy" src="http://www.prestashop.com/blog/fr/files/2015/04/Puff-Daddy.jpg" width="1026" height="684" /></p>
+<p>Ceci n’est qu’un aperçu de l’environnement de travail chez PrestaShop, pour comprendre vraiment ce que signifie « Travailler chez PrestaShop » jetez un œil à notre <a href="https://www.pinterest.com/prestashop/working-at-prestashop/" target="_blank">board Working at PrestaShop</a> sur Pinterest ou suivez le <a href="https://instagram.com/prestacrew/" target="_blank">@prestacrew</a> sur Instagram.</p>
+<p>Envie de nous rejoindre ? Envoyez dès aujourd’hui votre candidature sur notre <a href="https://prestashop.profilsearch.com/recrute/fo_annonce_lister.php?hc_location=ufi" target="_blank">page carrières</a>.</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/visite-guidee-au-coeur-nouveaux-bureaux-prestashop-paris/">Visite guidée au cœur des nouveaux bureaux de PrestaShop à Paris</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/visite-guidee-au-coeur-nouveaux-bureaux-prestashop-paris/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mise à jour Google : votre boutique en ligne est-elle adaptée à la navigation mobile ?</title>
+		<link>https://www.prestashop.com/blog/fr/mise-jour-google-boutique-en-ligne-adaptee-navigation-mobile/</link>
+		<comments>https://www.prestashop.com/blog/fr/mise-jour-google-boutique-en-ligne-adaptee-navigation-mobile/#comments</comments>
+		<pubDate>Mon, 13 Apr 2015 12:37:53 +0000</pubDate>
+		<dc:creator><![CDATA[Gary Le Masson]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=18586</guid>
+		<description><![CDATA[<p>À partir du 21 avril, seuls les sites responsives et adaptés à la navigation mobile apparaîtront dans les résultats de recherche Google sur les appareils mobiles. Si vous avez déjà lu mes prévisions de 2015 pour l&#8217;e-commerce, cette nouvelle ne risque pas de vous surprendre : je prédisais que 2015 allait être l&#8217;année du mobile. [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/mise-jour-google-boutique-en-ligne-adaptee-navigation-mobile/">Mise à jour Google : votre boutique en ligne est-elle adaptée à la navigation mobile ?</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>À partir du 21 avril, seuls les sites responsives et adaptés à la navigation mobile apparaîtront <a href="http://googlewebmastercentral.blogspot.fr/2015/02/finding-more-mobile-friendly-search.html" target="_blank">dans les résultats de recherche Google sur les appareils mobiles</a>. Si vous avez déjà lu mes <a href="https://www.prestashop.com/blog/fr/les-tendances-du-seo-pour-lecommerce-en-2015/">prévisions de 2015 pour l&rsquo;e-commerce</a>, cette nouvelle ne risque pas de vous surprendre : je prédisais que 2015 allait être l&rsquo;année du mobile.<br />
+<span id="more-18586"></span><br />
+Quel sera l&rsquo;impact de cette mise à jour sur votre boutique en ligne ? En bref, si vous ne disposez pas d&rsquo;un site responsive ou mobile, celui-ci ne figurera pas dans les résultats des recherches effectuées sur les smartphones (indépendamment du modèle ou de la marque). Un consommateur cherche un cadeau pour la fête des Mères sur son téléphone ? Dommage, il ne verra pas votre boutique de pulls tricotés main en laine d&rsquo;alpaga. D&rsquo;autres s&rsquo;y prennent à la dernière minute pour commander des invitations pour une fête ? Et dire qu&rsquo;ils auraient adoré votre gamme de cartes personnalisables.</p>
+<p>Certes, cela peut être difficile à accepter, mais la compatibilité mobile est une nécessité pour les e-commerçants d&rsquo;aujourd&rsquo;hui. Rassurez-vous, enjeu considérable ne rime pas forcément avec investissement important. Voici la marche à suivre.</p>
+<p>Si votre site a été créé par une agence, contactez-la. Demandez à passer à un thème compatible avec les mobiles.<br />
+Si vous avez construit votre site seul ou si vous ne disposez pas du budget pour faire appel à une agence, vous pouvez changer le thème vous-même. C&rsquo;est un peu plus long, mais croyez-moi, le jeu en vaut la chandelle.</p>
+<ol>
+<li>Découvrez les thèmes responsives sur la place de marché <a href="http://addons.prestashop.com/fr/" target="_blank">PrestaShop Addons</a>.</li>
+<li>Achetez et installez votre nouveau thème.</li>
+<li>Testez votre site. Vérifiez la taille, la résolution des images et la présentation sur différents appareils mobiles.</li>
+<li>Exploitez pleinement le commerce mobile !</li>
+</ol>
+<p>Vous n&rsquo;êtes toujours pas convaincu ? Réalisez le test suivant pendant qu&rsquo;il est encore temps : depuis votre smartphone ou votre tablette, recherchez n&rsquo;importe quel produit. Comparez les sites mobiles ou responsives aux sites traditionnels du point de vue de la qualité de la navigation. Vous l&rsquo;aurez compris, ces derniers sont en voie d&rsquo;extinction.</p>
+<p>Pour consulter notre gamme complète de thèmes adaptés à la navigation mobile, rendez-vous sur PrestaShop Addons. Nos <a href="https://www.prestashop.com/fr/agences-web-partenaires">agences partenaires</a> sont également à votre disposition si vous avez besoin d&rsquo;informations complémentaires.</p>
+<p>Vous avez opté pour un thème mobile-responsive ? Comment s&rsquo;est passée la transition ? Avez-vous des conseils à donner aux autres commerçants ? Dites-nous tout dans les commentaires ! Prêt à adopter le mobile-responsive pour votre boutique en ligne ? N&rsquo;attendez plus, rendez-vous sur le site de <a href="https://www.prestashop.com/fr/agences-web-partenaires">PrestaShop</a> !</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/mise-jour-google-boutique-en-ligne-adaptee-navigation-mobile/">Mise à jour Google : votre boutique en ligne est-elle adaptée à la navigation mobile ?</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/mise-jour-google-boutique-en-ligne-adaptee-navigation-mobile/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>Être à la fois mère et entrepreneuse ? C&#8217;est possible, comme le prouve la créatrice de Gretel Home</title>
+		<link>https://www.prestashop.com/blog/fr/etre-fois-mere-entrepreneuse-cest-possible-prouve-creatrice-gretel-home/</link>
+		<comments>https://www.prestashop.com/blog/fr/etre-fois-mere-entrepreneuse-cest-possible-prouve-creatrice-gretel-home/#comments</comments>
+		<pubDate>Mon, 13 Apr 2015 09:41:42 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Success Story]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=18576</guid>
+		<description><![CDATA[<p>Concilier vie de famille et vie professionnelle n&#8217;est pas toujours facile. Il faut bien souvent faire un choix :  poursuivre notre carrière, ou voir nos enfants grandir. Dans tous les cas,  il n&#8217;y a pas de bonnes ou de mauvaises réponses. Entrepreneuse et commerçante PrestaShop, Abby Kellett a choisi de mettre sa carrière de côté pour passer [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/etre-fois-mere-entrepreneuse-cest-possible-prouve-creatrice-gretel-home/">Être à la fois mère et entrepreneuse ? C&rsquo;est possible, comme le prouve la créatrice de Gretel Home</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Concilier vie de famille et vie professionnelle n&rsquo;est pas toujours facile. Il faut bien souvent faire un choix :  poursuivre notre carrière, ou voir nos enfants grandir. Dans tous les cas,  il n&rsquo;y a pas de bonnes ou de mauvaises réponses.</p>
+<p>Entrepreneuse et <a href="http://gretelhome.com/" target="_blank">commerçante PrestaShop, Abby Kellett</a> a choisi de mettre sa carrière de côté pour passer le plus de temps possible avec ses filles Beatrice et Josephine. En devenant mère à plein temps, elle a pu les voir grandir. Investie à 100 % dans son rôle de mère, Abby s&rsquo;est vite rendu compte qu&rsquo;elle n&rsquo;avait pas perdu sa passion pour le design d&rsquo;intérieur. Elle a donc cherché un moyen de concilier sa vocation et sa vie de famille. En lançant sa propre boutique d&rsquo;articles pour la maison baptisée <a href="http://www.gretelhome.com/" target="_blank">Gretel Home</a> avec PrestaShop, elle a trouvé le compromis idéal. Découvrez l&rsquo;histoire d&rsquo;Abby, mère et entrepreneuse.<br />
+<span id="more-18576"></span><br />
+<img class="aligncenter size-full wp-image-19867" alt="home" src="http://www.prestashop.com/blog/fr/files/2015/04/home.png" width="1004" height="757" /></p>
+<h2 style="color: #ebba9f;">Entrepreneuriat en ligne : le commencement</h2>
+<p>« J&rsquo;ai toujours eu une passion pour le design. Après des études en design intérieur, j&rsquo;ai travaillé comme styliste chez Elle Décoration à Londres », explique-t-elle. Forte de son expérience, elle choisit elle-même les produits de sa boutique. L&rsquo;avantage des boutiques en ligne, c&rsquo;est de pouvoir travailler partout et à toute heure.</p>
+<h2 style="color: #ebba9f;">Vivre de sa passion</h2>
+<p><img class="alignright  wp-image-19868" alt="rabbit" src="http://www.prestashop.com/blog/fr/files/2015/04/rabbit.png" width="248" height="205" /></p>
+<p>Ne disposant pas des compétences techniques nécessaires, Abby a fait appel à un freelance pour la création de <a href="http://www.gretelhome.com/" target="_blank">Gretel Home</a>. PrestaShop lui a été vivement recommandé, autant pour sa flexibilité que pour sa maintenance peu coûteuse. Au fil du développement de l&rsquo;activité d&rsquo;Abby, la boutique peut s&rsquo;adapter au nombre croissant de visiteurs et de produits mis en vente. Autre avantage : Abby a pu personnaliser l&rsquo;apparence de son site e-commerce pour le rendre plus convivial. C&rsquo;est elle qui a choisi les motifs floraux et la couleur pêche qui habillent son site.</p>
+<p>Neuf mois après avoir décidé de se lancer dans l&rsquo;entrepreneuriat, Abby a lancé sa boutique PrestaShop. Elle sélectionne elle-même les articles qu’elle ajoute à sa boutique aux accents artisanaux et modernes. De la <a href="http://www.gretelhome.com/roros-tweed/1025-lynild-blanket-in-pink-and-green.html" target="_blank">couverture faite main dans une filature ancienne</a> en Norvège au <a href="http://www.gretelhome.com/oli-carol/1109-red-mushroom-chewable-toy.html" target="_blank">jouet décalé à mordiller pour bébés</a> importé du Maroc, chaque objet de la boutique possède un caractère unique.</p>
+<p><img class="alignleft  wp-image-19869" alt="window" src="http://www.prestashop.com/blog/fr/files/2015/04/window.png" width="257" height="212" /></p>
+<p>Mais pour que ces articles puissent trouver preneur, la boutique d&rsquo;Abby a besoin de plus de visites. Afin de booster le trafic de son site, Abby a sillonné des festivals d&rsquo;art comme Art Basel à Miami (États-Unis) en distribuant des cartes de visite <a href="http://www.gretelhome.com/" target="_blank">Gretel Home</a>. Elle a également contacté de grands magazines de design pour un maximum de visibilité. Les articles de Gretel Home ont notamment été mentionnés dans les publications suivantes : <a href="http://tmagazine.blogs.nytimes.com/2013/04/02/good-enough-to-eat-pieces-of-porcelain/" target="_blank">T (New York Times)</a>, <a href="http://www.realsimple.com/work-life/life-strategies/problem-solving-products-10" target="_blank">Real Simple</a>, <a href="http://www.gretelhome.com/content/12-Press" target="_blank"> Martha Stewart Living</a>, <a href="http://www.gretelhome.com/content/12-Press" target="_blank">Elle Décoration</a> <a href="http://www.gretelhome.com/content/12-Press" target="_blank">et bien d&rsquo;autre encore</a>. « Lorsqu&rsquo;un magazine parle d&rsquo;un produit Gretel Home, les stocks s&rsquo;épuisent en un clin d&rsquo;œil. Mes produits plaisent, il n&rsquo;y a pas de doute là-dessus. Il faut juste que les gens arrivent à trouver mon site », explique Abby.</p>
+<h2 style="color: #ebba9f;">Boutique en ligne ou physique ?</h2>
+<p>Un an après le lancement de sa boutique en ligne, Abby a songé à ouvrir un magasin à Miami. Elle aurait ainsi pu renforcer la présence de Gretel Home dans la région. Tentée au premier abord, Abby s&rsquo;est rapidement souvenue de l&rsquo;avantage principal du commerce en ligne : la liberté de passer du temps avec ses enfants.</p>
+<p>Contrairement à une boutique en ligne, un magasin requiert la présence d&rsquo;un vendeur pendant les horaires d&rsquo;ouverture. Les investissements sont également beaucoup plus importants, en particulier la location d&rsquo;un espace et les salaires du personnel.</p>
+<p>Le « tout en ligne » apporte ses propres avantages. Partout dans le monde, les clients de Gretel Home parcourent les articles sélectionnés par Abby. « Je suis devenue incollable en géographie des États-Unis », plaisante-t-elle. Depuis le lancement de la boutique, elle envoie des commandes aux quatre coins du monde, de New York à Tokyo en passant par les petites villes isolées des États-Unis.</p>
+<h2 style="color: #ebba9f;">Quand passion rime avec succès</h2>
+<p>Cela fait maintenant cinq ans qu&rsquo;Abby a lancé Gretel Home. Sa passion pour la décoration intérieure lui a permis de monter sa propre entreprise avec succès. Elle emploie actuellement 5 stylistes et graphistes pour des missions de stylisme en freelance ou dans le cadre d&rsquo;évènements parrainés par Gretel Home. Ils l&rsquo;aident également à gérer la boutique en ligne au quotidien.</p>
+<h2 style="color: #ebba9f;">Vie de famille ou carrière ? Pas besoin de choisir !</h2>
+<p>Pour toutes les mères qui veulent lancer leur boutique en ligne, Abby est bien plus qu&rsquo;une commerçante PrestaShop : son histoire est une source d&rsquo;inspiration. Elle prouve à toutes et à tous qu&rsquo;il est possible de concilier vie de famille et vie professionnelle. Tout en donnant la priorité à ses enfants, elle a réussi à transformer sa passion en une boutique en plein essor.</p>
+<p>Maintenant, à vous de jouer. Vous êtes une maman qui souhaite créer sa boutique en ligne ? Lancez-vous dès maintenant avec <a href="http://www.prestashop.com/">PrestaShop Cloud</a>. Pour vous faciliter la tâche, nous commençons par vous fournir un logiciel e-commerce gratuit, sans frais d&rsquo;hébergement, sans frais mensuels, et sans commission sur vos ventes.</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/etre-fois-mere-entrepreneuse-cest-possible-prouve-creatrice-gretel-home/">Être à la fois mère et entrepreneuse ? C&rsquo;est possible, comme le prouve la créatrice de Gretel Home</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/etre-fois-mere-entrepreneuse-cest-possible-prouve-creatrice-gretel-home/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Le Slip Français : un pari entre amis devenu un succès international</title>
+		<link>https://www.prestashop.com/blog/fr/slip-francais-pari-amis-devenu-succes-international/</link>
+		<comments>https://www.prestashop.com/blog/fr/slip-francais-pari-amis-devenu-succes-international/#comments</comments>
+		<pubDate>Wed, 08 Apr 2015 14:40:40 +0000</pubDate>
+		<dc:creator><![CDATA[Sabrina Maréchal]]></dc:creator>
+				<category><![CDATA[Success Story]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=18552</guid>
+		<description><![CDATA[<p>Ce qui est aujourd’hui l’un des sites e-commerce français les plus décalés du marché a démarré en septembre 2011, par… un pari entre amis. Est-il possible de créer une formidable aventure dans n’importe quel domaine avec une jolie histoire et de beaux produits fabriqués en France ? « Pas avec tout et n’importe quoi… Impossible [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/slip-francais-pari-amis-devenu-succes-international/">Le Slip Français : un pari entre amis devenu un succès international</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Ce qui est aujourd’hui l’un des sites e-commerce français les plus décalés du marché a démarré en septembre 2011, par… un pari entre amis. Est-il possible de créer une formidable aventure dans n’importe quel domaine avec une jolie histoire et de beaux produits fabriqués en France ? « <span style="font-style: italic;">Pas avec tout et n’importe quoi… Impossible dans le slip par exemple !</span> » Ce à quoi Guillaume Gibault, jeune diplômé d’HEC de 26 ans, a répondu : « <span style="font-style: italic;">Impossible dans le slip ? Pas s’il est français !</span> ».</p>
+<p>Retour dans le présent. Aujourd’hui <strong>Guillaume réunit 15 collaborateurs autour de <a href="http://www.leslipfrancais.fr/" target="_blank">Leslipfrancais.fr</a> et a réalisé un chiffre d’affaires de 1,5 millions d’euros en 2014.</strong></p>
+<p>J’ai eu la chance de m’entretenir avec Clément Coignac, Web Manager chez le Slip Français, qui m’a raconté cette formidable épopée… du slip.<br />
+<span id="more-18552"></span></p>
+<h2 style="color: #337f97;">Des premiers pas ambitieux</h2>
+<p>Suite à son pari, Guillaume fait fabriquer 600 slips dans une petite usine en Dordogne, qu’il ramène à Paris dans le coffre de sa voiture. Pour les vendre, il créé son premier site e-commerce seul, avec la plateforme PrestaShop car « <span style="font-style: italic;">elle est simple, flexible et lui permet de se lancer seul pour démarrer, et rapidement.</span> »</p>
+<p><strong>La première commande arrive… le jour même du lancement du site.</strong> Le slip était sur le chemin du succès !</p>
+<h2 style="color: #337f97;">Le décollage du Slip</h2>
+<p>Les lumières se tournent sur le Slip Français durant la campagne présidentielle de 2012. A première vue, difficile d’établir un rapport entre les deux. Et pourtant !</p>
+<p>L’argument du « Made in France » est l’un des thèmes centraux de cette campagne. En détournant les affiches de plusieurs candidats à l’élection présidentielle, le slip vole la vedette aux politiques. Les médias reprennent instantanément cette campagne marketing atypique, et le Slip Français se retrouve propulsé sur <a href="https://www.youtube.com/user/leslipfrancais/videos" target="_blank">toutes les grandes chaines nationales, du 20 heures de TF1 au Figaro, en passant par Canal +</a>.</p>
+<div class="row">
+<div class="col-sm-3 col-xs-12 text-center"><img class="aligncenter  wp-image-19841" alt="Nicolas Sarkozy" src="http://www.prestashop.com/blog/fr/files/2015/04/1927904_sarkozy.jpg" width="240" height="318" /></div>
+<div class="col-sm-3 col-xs-12 text-center"><img class="aligncenter  wp-image-19839" alt="François Hollande" src="http://www.prestashop.com/blog/fr/files/2015/04/1927904_hollande.jpg" width="240" height="403" /></div>
+<div class="col-sm-3 col-xs-12 text-center"><img class="aligncenter  wp-image-19852" alt="François Bayrou" src="http://www.prestashop.com/blog/fr/files/2015/04/1927904_bayrou.jpg" width="239" height="334" /></div>
+<div class="col-sm-3 col-xs-12 text-center"><img class="aligncenter  wp-image-19840" alt="Mélenchon" src="http://www.prestashop.com/blog/fr/files/2015/04/1927904_melenchon.jpg" width="294" height="196" /></div>
+</div>
+<h2 style="color: #337f97;">Des ventes qui explosent et une gamme qui s’élargit</h2>
+<p>Au Noël qui suit, le Slip est victime de son succès. « <span style="font-style: italic;">Au 10 décembre, nos stocks étaient quasiment vides. Notre marque a un côté très cadeau. Noël, mais aussi la Fête des Pères ou la Saint Valentin ont un très fort impact sur nos ventes. Rien que <strong>sur Novembre et Décembre, nous réalisons un quart de notre chiffre d’affaires.</strong></span> »</p>
+<p>Au fil du temps, Guillaume décide d’élargir sa gamme de produits tout en restant dans l’univers « franchouillard » qui fait son succès : caleçons, boxers, chaussettes, T-shirts, mais aussi charentaises, espadrilles et boules de pétanque. En 2013, il lance une collection de maillots de bain qui est épuisée en une semaine.</p>
+<p>Aujourd’hui la marque travaille avec une quinzaine de fournisseurs – dont toujours l’usine originale. La majorité de la production est désormais à Lille, « <span style="font-style: italic;">dans une usine qui peut tenir le rythme.</span> » explique Clément.</p>
+<p>« <span style="font-style: italic;">Tout ce que nous distribuons est Made in France, y compris les emballages de nos produits. Nous sommes aussi fiers de proposer des produits issus de collaboration avec de grandes marques ou célèbres créateurs tels que St James, Agnès B, ou bien encore Princesse Tam-Tam.</span> »</p>
+<p><img class="aligncenter size-full wp-image-19845" style="border: 1px solid #dce1e5;" alt="etendue-catalogue" src="http://www.prestashop.com/blog/fr/files/2015/04/etendue-catalogue.png" width="494" height="301" /></p>
+<h2 style="color: #337f97;">D’une boutique en ligne à une boutique physique en passant par un Slip Truck</h2>
+<p><strong>En moins de trois ans, le Slip Français se fait une place chez <a href="http://www.leslipfrancais.fr/fr/content/16-nos-boutiques" target="_blank">une soixantaine de revendeurs</a></strong>, dont les emblématiques Galeries Lafayette du Boulevard Haussmann à Paris.</p>
+<p>En juillet 2014, la marque part à l’assaut des plages françaises à bord de son Slip Truck, une estafette proposant aux vacanciers slips et maillots de bain made in France. Ce truck représente les premiers pas du Slip Français vers le commerce physique.</p>
+<p>En octobre 2014, alors que la marque migre vers PrestaShop 1.6 pour la troisième version de son site, sa première boutique en propre voit le jour à Paris.</p>
+<div class="row">
+<div class="col-sm-6 col-xs-12"><img class="aligncenter  wp-image-19844" alt="estafette-slip-francais" src="http://www.prestashop.com/blog/fr/files/2015/04/estafette-slip-francais.jpg" width="350" height="218" /></div>
+<div class="col-sm-6 col-xs-12"><img class="aligncenter  wp-image-19842" alt="shop" src="http://www.prestashop.com/blog/fr/files/2015/04/boutique.png" width="306" height="307" /></div>
+</div>
+<h2 style="color: #337f97;">La recette du succès : PrestaShop 1.6 au service du Slip Français</h2>
+<div class="row">
+<div class="col-sm-6 col-xs-12"><img class="aligncenter  wp-image-19856" style="border: 1px solid #dce1e5;" alt="homepage" src="http://www.prestashop.com/blog/fr/files/2015/04/homepage.png" width="333" height="589" /></div>
+<div class="col-sm-6 col-xs-12">Lorsque je demande à Clément la recette du succès du Slip Français, il mentionne tout d’abord PrestaShop : « <span style="font-style: italic;">des premiers pas de Guillaume jusqu’à aujourd’hui, en passant par nos grandes campagnes médiatiques, la plateforme PrestaShop nous a toujours accompagnés. La plateforme suit l’évolution de notre activité en termes de design ou de fonctionnalités et gère très bien les pics de trafic.</span> »Pour sa récente migration sur PrestaShop 1.6, l’équipe du Slip a travaillé avec l’agence certifiée PrestaShop <a href="https://www.prestashop.com/fr/agences-web-partenaires/platinum/newquest" target="_blank">NewQuest</a>. Cette nouvelle version <strong>apporte un lot considérable de nouveautés et d’optimisations à la boutique en ligne</strong>. « <span style="font-style: italic;">Nous sommes très contents d’être passés sur la version 1.6 de PrestaShop, le changement dans les interfaces est incroyable.</span> » ajoute Clément.</div>
+</div>
+<p>Un passage télévisé ou un article dans la presse nationale peut conduire à d’impressionnantes augmentations de trafic pour la marque. Le 20h de TF1 en Septembre 2012 a ainsi engendré <strong>plus de 5 000 connexions simultanées à la boutique, et environ 15 000 dans les 5 minutes qui ont suivi la diffusion du reportage</strong>.</p>
+<p>Yann Costes, fondateur de NewQuest, explique : « <span style="font-style: italic;"><strong>PrestaShop gère naturellement bien les montées en charge.</strong> Dans le cas du Slip Français, sa boutique et sa base de données sont hébergées sur des serveurs différents, permettant d’encaisser une large augmentation de trafic à tout moment. Nous pouvons également ajouter des serveurs supplémentaires et un load balancer pour garantir une disponibilité sans faille de la boutique lors de mises en avant exceptionnelles sur les grands médias.</span> »</p>
+<div class="row">
+<div class="col-sm-6 col-xs-12"><img class="aligncenter  wp-image-19848" style="border: 1px solid #dce1e5;" alt="mobile version" src="http://www.prestashop.com/blog/fr/files/2015/04/mobile1-575x1024.png" width="345" height="614" /></div>
+<div class="col-sm-6 col-xs-12"><img class="aligncenter  wp-image-19849" style="border: 1px solid #dce1e5;" alt="mobile version" src="http://www.prestashop.com/blog/fr/files/2015/04/mobile2-575x1024.png" width="345" height="614" /></div>
+</div>
+<p>La mise à jour de PrestaShop 1.3 vers 1.6 a également permis à la marque d’implémenter de nombreuses nouvelles fonctionnalités. Outre <strong>une version mobile du site et des emails</strong> (qui a conduit à plus de 10% d’augmentation des ventes sur ce canal), <strong>la relance des paniers abandonnés</strong>, et les promotions automatiques pour <strong>les anniversaires des clients</strong>, NewQuest a apporté plusieurs personnalisations propres à la boutique.</p>
+<p><img class="aligncenter  wp-image-19843" style="border: 1px solid #dce1e5;" alt="map France" src="http://www.prestashop.com/blog/fr/files/2015/04/cms-fabrication-727x1024.png" width="448" height="630" /></p>
+<p><strong>La gestion des pages CMS</strong> a été adaptée pour coller de près aux besoins de la marque. Ainsi, les pages telles que « <a href="http://www.leslipfrancais.fr/fr/timeline?en%2Ftimeline=&amp;fr%2Ftimeline=" target="_blank">L’histoire du Slip</a> » ou « <a href="http://www.leslipfrancais.fr/fr/content/6-madeinfrance" target="_blank">Fabrication 100% Française</a> » ont été créées sur-mesure, puis les interfaces CMS du back-office de PrestaShop ont été adaptées au contenu nécessaire.</p>
+<p>Une autre fonctionnalité propre au Slip Français est le partage de photos issues des réseaux sociaux directement sur la fiche du produit concerné. En combinant un hashtag unique à chaque produit, l’équipe du Slip Français peut monitorer les posts et en partager le contenu sur les fiches produits. Ceci permet de <strong>enforcer le côté communautaire de la marque</strong> et de présenter les produits sous un autre jour.</p>
+<p>En termes d’emailing, <strong>la boutique est connectée à <a href="http://addons.prestashop.com/fr/publicite-marketing-newsletter-modules/18921-official-mailchimp-for-prestashop-16.html" target="_blank">MailChimp</a></strong>. Les clients s’inscrivant à la newsletter sont automatiquement segmentés en fonction de leur profil et achats. Le fameux « slip ou caleçon ? », en gros.</p>
+<p>Le Slip Français utilise <a href="http://addons.prestashop.com/fr/modules-paiement-prestashop/8334-be2bill-internet-payment-paiement-simple.html" target="_blank">Be2Bill</a> et <a href="http://addons.prestashop.com/fr/modules-paiement-prestashop/1748-paypal.html" target="_blank">PayPal</a> pour ses paiements en ligne. La logistique, d’abord gérée dans le garage de Guillaume, est <strong>désormais entièrement externalisée</strong> auprès de Logtex via des liaisons EDI pour l’envoi et le suivi des commandes, et connectée à leur ERP Fastmag pour la gestion des stocks.</p>
+<p>La marque ne fait que peu de campagnes Adwords ou de retargetting. <strong>Grâce au référencement naturel de PrestaShop, la marque est <a href="https://www.google.fr/?gws_rd=ssl#q=slip" target="_blank">numéro 1 sur le mot clé « slip »</a></strong> (souvenez-vous de <a href="https://www.google.fr/?gws_rd=ssl#q=tablier" target="_blank">Madame Choup et de ses tabliers</a>, de <a href="https://www.google.fr/?gws_rd=ssl#q=chaise" target="_blank">de 4-pieds et de ses chaises</a>, ou bien encore <a href="https://www.google.fr/?gws_rd=ssl#q=chaussettes" target="_blank">d’Archiduchesse et ses chaussettes</a>…).</p>
+<p><img class="aligncenter  wp-image-19850" style="border: 1px solid #dce1e5;" alt="Yahoo Japan" src="http://www.prestashop.com/blog/fr/files/2015/04/yahoo-japan.png" width="394" height="325" /></p>
+<p>Grâce à ses valeurs, la marque réunit aujourd’hui plus de <strong>45 000 fans et près de 10 000 followers</strong>. « <span style="font-style: italic;">Notre communauté est notre terrain de jeu</span> » explique Clément. « <span style="font-style: italic;"> Elle est tellement supportive <a href="http://www.mymajorcompany.com/sentez-bon-du-slip" target="_blank">que notre campagne de crowdfunding pour le « slip qui sent bon »</a>a accumulé plus de 22 000 euros au lieu des 10 000 prévus !</span> » La marque capitalise en effet beaucoup sur le buzz. Sa vidéo de la « surprise du chef » compte près d’un million de vues sur Youtube, et s’est même retrouvée en page d’accueil <a href="http://videotopics.yahoo.co.jp/videolist/official/others/pc3cffe09e04afe3f0ec6878684b4dfd3" target="_blank">de Yahoo au Japon</a> !</p>
+<h2 style="color: #337f97;">L’avenir du Slip : l’international</h2>
+<p>Des projets avec PrestaShop, le Slip en a beaucoup. La conquête de l’international tout d’abord.</p>
+<p>« <span style="font-style: italic;">Le Slip Français connait déjà un certain succès en Europe proche (Belgique, Allemagne, Royaume-Uni), ainsi qu’en Asie. 2015 sera pour nous l’année de l’international. Notre site sera bientôt traduit en Allemand et en Chinois. Ces versions reposeront sur le multi-boutique de PrestaShop, ce qui nous permettra d’avoir des front offices parfaitement localisés avec des noms de domaine spécifiques</span> » précise Clément.</p>
+<p><strong>La centralisation des stocks</strong> entre la boutique physique et celle en ligne est envisagée via la fonction de stocks partagés de PrestaShop 1.6.</p>
+<p>Enfin, la création <strong>d’un blog WordPress interfacé à PrestaShop</strong> est également prévue : les pages produits renverront vers les articles mentionnant ces articles, et vice et versa.</p>
+<p>Il y aurait encore beaucoup à dire sur le succès du Slip Français… <strong>Découvrez ses chiffres clés en une infographie !</strong></p>
+<p><img class="aligncenter size-full wp-image-19847" alt="Infographic" src="http://www.prestashop.com/blog/fr/files/2015/04/LSFInfographic_FR-01.jpg" width="1280" height="11059" /></p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/slip-francais-pari-amis-devenu-succes-international/">Le Slip Français : un pari entre amis devenu un succès international</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/slip-francais-pari-amis-devenu-succes-international/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Modules PrestaShop : Personnalisez votre page d&#8217;accueil</title>
+		<link>https://www.prestashop.com/blog/fr/modules-prestashop-personnalisez-page-daccueil/</link>
+		<comments>https://www.prestashop.com/blog/fr/modules-prestashop-personnalisez-page-daccueil/#comments</comments>
+		<pubDate>Thu, 02 Apr 2015 08:30:39 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=18543</guid>
+		<description><![CDATA[<p>Vous venez de créer votre boutique ? Si vous êtes comme la majorité des marchands PrestaShop, vous êtes probablement impatient d&#8217;y ajouter votre touche personnelle. Téléchargement de votre logo, ajout d&#8217;images… nous sommes d’accord, il s&#8217;agit là des aspects les plus agréables de la création d&#8217;une boutique en ligne ! Voici notre sélection de modules [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/modules-prestashop-personnalisez-page-daccueil/">Modules PrestaShop : Personnalisez votre page d&rsquo;accueil</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Vous venez de créer votre boutique ? Si vous êtes comme la majorité des marchands PrestaShop, vous êtes probablement impatient d&rsquo;y ajouter votre touche personnelle. Téléchargement de votre logo, ajout d&rsquo;images… nous sommes d’accord, il s&rsquo;agit là des aspects les plus agréables de la création d&rsquo;une boutique en ligne !<br />
+<span id="more-18543"></span><br />
+Voici notre sélection de modules qui vous aideront à personnaliser votre page d&rsquo;accueil. Ils sont facilement accessibles depuis votre back-office PrestaShop en cliquant sur l’onglet « Modules ».<br />
+<img class="aligncenter size-full wp-image-19798" alt="header" src="http://www.prestashop.com/blog/fr/files/2015/04/header.jpg" width="600" height="393" /></p>
+<h2 style="color: #71bd39;">Modules au-dessus de la ligne de flottaison</h2>
+<p>La ligne de flottaison est une notion empruntée au domaine de la presse écrite. À l&rsquo;origine, elle fait référence au placement des articles les plus importants dans la partie supérieure d&rsquo;un journal plié en deux. Ce concept est désormais appliqué sur Internet et désigne aujourd&rsquo;hui le contenu d&rsquo;une page Web qu&rsquo;un internaute peut voir sans faire défiler la page. Le contenu que vous inclurez au-dessus de la ligne de flottaison est la première chose que vos clients verront lorsqu&rsquo;ils arriveront sur votre page. Voici les modules qui vous permettent de personnaliser cette zone de votre boutique :</p>
+<ol style="padding-left: 30px;">
+<li>Bloc bannière</li>
+<li>Bloc contact</li>
+<li>Préférences &gt; Thèmes &gt; Onglet Logo &gt; Logo de l&rsquo;en-tête</li>
+<li>Bloc recherche rapide (Activer/Désactiver uniquement)</li>
+<li>Menu Haut horizontal</li>
+<li>Diaporama (image slider) pour votre page d&rsquo;accueil</li>
+<li>Configurateur de thème &gt; Configurer &gt; Point d&rsquo;accroche “Top”</li>
+</ol>
+<p><img class="aligncenter size-full wp-image-19799" alt="template" src="http://www.prestashop.com/blog/fr/files/2015/04/template.jpg" width="600" height="656" /></p>
+<h2 style="color: #71bd39;">Modules dans le corps de la page</h2>
+<p>Notre thème par défaut offre de nombreuses possibilités pour encourager les conversions dès que vos clients commencent à faire défiler votre page d&rsquo;accueil. Le thème met vos produits en avant, puis inclut des blocs publicitaires de grande taille qui vous aident à rendre vos catégories de produits plus visibles. Enfin, des blocs CMS apparaissent au bas de la zone. Ils vous permettent de renforcer la crédibilité de votre boutique.</p>
+<ol style="padding-left: 30px;" start="8">
+<li>Bloc nouveaux produits</li>
+<li>Produits mis en avant (page d&rsquo;accueil)</li>
+<li>Bloc meilleures ventes</li>
+<li>Configurateur de thème &gt; Configurer &gt; Point d&rsquo;accroche “Body”</li>
+<li>Bloc Facebook Like Box</li>
+<li>Bloc informations CMS personnalisé</li>
+</ol>
+<p><img class="aligncenter size-full wp-image-19797" alt="footer" src="http://www.prestashop.com/blog/fr/files/2015/04/footer.jpg" width="600" height="234" /></p>
+<h2 style="color: #71bd39;">Modules dans le footer</h2>
+<p>Le thème par défaut de PrestaShop inclut un grand footer sur toutes les pages de votre boutique en ligne. Que vos clients soient en train de consulter un produit, une catégorie, une page CMS… ils peuvent accéder aux informations de ce footer.<br />
+La première section inclut un bloc leur permettant de s&rsquo;abonner à la newsletter, qui vous aide également à recueillir des adresses e-mail, ainsi que des boutons dédiés aux réseaux sociaux afin d&rsquo;encourager le partage et de faire grandir votre communauté. Ensuite s&rsquo;affichent des liens vers les pages importantes de votre site Web, facilitant ainsi la navigation.</p>
+<ol style="padding-left: 30px;" start="14">
+<li>Bloc newsletter</li>
+<li>Bloc social</li>
+<li>Bloc catégories</li>
+<li>Bloc CMS</li>
+<li>Bloc Mon compte dans le pied de page (Activer/Désactiver)</li>
+<li>Bloc informations de contact</li>
+<li>Bloc CMS</li>
+</ol>
+<p>Et vous, quel est votre module préféré ? N&rsquo;hésitez pas à répondre dans les commentaires ci-dessous. Si vous travaillez activement sur votre site Web, ajoutez cet article à vos favoris pour y accéder facilement ! Vous voulez en savoir plus sur PrestaShop ? Consultez ces ressources :</p>
+<ul style="padding-left: 30px;">
+<li><a href="https://www.prestashop.com/forums/">Forum PrestaShop</a> : échangez des idées avec les 700 000 membres de notre communauté internationale.</li>
+<li><a href="https://www.prestashop.com/fr/newsletter">PrestaShop Newsletter</a> : recevez les conseils les plus récents de PrestaShop directement dans votre boîte de réception.</li>
+</ul>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/modules-prestashop-personnalisez-page-daccueil/">Modules PrestaShop : Personnalisez votre page d&rsquo;accueil</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/modules-prestashop-personnalisez-page-daccueil/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Les modules PrestaShop, qu&#8217;est-ce que c&#8217;est ?</title>
+		<link>https://www.prestashop.com/blog/fr/les-modules-prestashop-quest-ce-cest/</link>
+		<comments>https://www.prestashop.com/blog/fr/les-modules-prestashop-quest-ce-cest/#comments</comments>
+		<pubDate>Thu, 26 Mar 2015 08:30:38 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=18528</guid>
+		<description><![CDATA[<p>En tant qu&#8217;utilisateur de PrestaShop, vous connaissez sûrement déjà le terme « module ». Il est d&#8217;ailleurs probable que vous ayez entendu parler de modules front-office, back-office ou encore modules partenaires. Mais savez-vous exactement ce qu&#8217;est un module ? Chris Machin définit ce concept et vous explique comment utiliser les modules pour optimiser votre boutique [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/les-modules-prestashop-quest-ce-cest/">Les modules PrestaShop, qu&rsquo;est-ce que c&rsquo;est ?</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>En tant qu&rsquo;utilisateur de PrestaShop, vous connaissez sûrement déjà le terme « module ». Il est d&rsquo;ailleurs probable que vous ayez entendu parler de <span style="font-style: italic">modules front-office</span>, <span style="font-style: italic">back-office</span> ou encore <span style="font-style: italic">modules partenaires</span>. Mais savez-vous exactement ce qu&rsquo;est un module ?</p>
+<p>Chris Machin définit ce concept et vous explique comment utiliser les modules pour optimiser votre boutique PrestaShop. En tant que Partner Manager chez PrestaShop, il aide à mettre en place des connexions entre la solution PrestaShop et des entreprises partenaires, pour faciliter le quotidien des e-commerçants.<br />
+<span id="more-18528"></span></p>
+<h2 style="color: #509924">Pourquoi PrestaShop utilise des modules ?</h2>
+<p>Le logiciel PrestaShop est utilisé par plus de 230 000 boutiques en ligne dans le monde, qui proposent aussi bien vêtements, bijoux, high-tech… que des produits numériques.</p>
+<p>Chacune de ces boutiques a des besoins uniques et utilise les fonctionnalités de PrestaShop qui lui correspondent.</p>
+<p>PrestaShop est une solution polyvalente qui s’adapte à tous les e-commerçants et sait répondre à leurs différents besoins.</p>
+<p>Imaginez un smartphone. Chaque personne ajoute sur le sien les applis qu’elle souhaite utiliser, qui l’intéressent, et supprime celles dont elle n’a pas besoin.</p>
+<p>PrestaShop fonctionne de la même façon avec les modules. Chaque e-commerçant active, installe, désactive ou supprime les modules qu’il souhaite selon ses besoins.Ainsi, PrestaShop s’adapte à toutes les activités tout en rendant chaque boutique unique.</p>
+<p>Qu&rsquo;en est-il concrètement ?</p>
+<p>La solution PrestaShop comprend de nombreux modules intégrés (natifs), proposés gratuitement dans la solution.</p>
+<p>Si vous souhaitez profiter de modules supplémentaires, vous pouvez vous rendre sur PrestaShop Addons, la marketplace officielle de PrestaShop, qui fonctionne comme un app store.</p>
+<p>On y retrouve plus de 5 000 modules et thèmes graphiques créés par des développeurs et agences de la communauté PrestaShop, ou directement par l’équipe PrestaShop.</p>
+<p>Ces fonctionnalités permettent aux e-commerçants de personnaliser leur boutique en ligne, de <a href="http://addons.prestashop.com/fr/323-referencement-et-marketplaces" target="_blank">gagner du trafic</a>, d’augmenter leur <a href="http://addons.prestashop.com/fr/403-panier-moyen-meilleurs-modules" target="_blank">panier moyen</a>, de <a href="http://addons.prestashop.com/fr/411-meilleurs-modules-fidelisation" target="_blank">fidéliser leurs clients</a>, de <a href="http://addons.prestashop.com/fr/410-gagnez-du-temps" target="_blank">gagner du temps</a>…</p>
+<h2 style="color: #509924">Qu&rsquo;est-ce qu&rsquo;un module ?</h2>
+<p>Un module permet d’ajouter des fonctionnalités au logiciel PrestaShop (comme une appli sur un smartphone). Les termes « extensions », « plug-ins » ou « widgets » peuvent également désigner des modules.</p>
+<p>On retrouve des modules intégrés directement dans la solution, et d’autres sur PrestaShop Addons pour personnaliser intégralement votre boutique PrestaShop.</p>
+<p>Il existe différents types de modules. Ils peuvent :</p>
+<ul style="padding-left: 30px">
+<li>personnaliser du contenu affiché ;</li>
+<li>exécuter des tâches ;</li>
+<li>connecter à d&rsquo;autres outils (API).</li>
+</ul>
+<h4 style="color: #94c3df">Modules pour personnaliser du contenu</h4>
+<p>Ces modules vous permettent de modifier l&rsquo;ensemble des éléments de votre boutique, de la bannière de votre page d&rsquo;accueil, au footer en passant par la barre de menu&#8230;</p>
+<p>Notre module Configurateur de thèmes est le plus populaire pour apporter des modifications au thème PrestaShop par défaut. Directement intégré au back-office, il vous permet d&rsquo;activer ou de désactiver de nombreux éléments du front-office (Facebook Block, informations CMS, bannière supérieure, etc.).</p>
+<h4 style="color: #94c3df">Modules pour exécuter des tâches</h4>
+<p>Il y a autant de modules que de besoins métier !</p>
+<p>Vous souhaitez récompenser vos meilleurs clients sans perdre de temps à suivre l’historique de commandes ? Activez le module intégré de fidélité de PrestaShop. Ce module vous permet de récompenser automatiquement les clients qui effectuent régulièrement des achats sur votre site e-commerce.</p>
+<p>Voilà un exemple parmi tant d&rsquo;autres des fonctionnalités offertes par les modules PrestaShop.</p>
+<p>Vous pouvez également réaliser des opérations par lots : mise à jour d&rsquo;informations (requêtes de recherche et taux de change, par exemple) ou import et export des données de votre boutique… les possibilités sont très nombreuses !</p>
+<h4 style="color: #94c3df">Modules qui se connectent à d&rsquo;autres outils</h4>
+<p>Une fois en ligne, votre site e-commerce aura besoin de proposer des services externes pour se déployer. Pour les transporteurs ou le paiement par exemple, en proposant à vos clients une solution de paiement connue (et rassurante !) pour vos clients.</p>
+<p>Afin de faciliter la communication entre votre boutique PrestaShop et votre <a href="https://www.prestashop.com/fr/modules-de-paiement">fournisseur de services de paiement</a>, nous nous associons à votre prestataire pour fournir un module gratuit qui se connecte à son API (interface de programmation).</p>
+<p>Cette API contient différents outils, protocoles ou séquences qui envoient des données (telles que le statut du paiement, les taux de change et les frais d&rsquo;expédition…) à votre boutique PrestaShop, qui les affiche ensuite pour le client.</p>
+<p>Dans le cas du prestataire de services de paiement, le logiciel PrestaShop envoie à votre fournisseur privilégié les informations de facturation du client ainsi que le montant de la commande. Une fois la transaction effectuée par l&rsquo;outil de traitement des paiements, les informations de confirmation sont renvoyées au logiciel PrestaShop avant d&rsquo;être stockées dans la base de données d&rsquo;informations de commande.</p>
+<p>Le traitement des paiements est l&rsquo;une des multiples fonctionnalités offertes par les nombreux modules gratuits de PrestaShop. Nous collaborons avec différents <a href="https://www.prestashop.com/fr/partenaires">partenaires reconnus</a> pour les activités suivantes :</p>
+<ul style="padding-left: 30px">
+<li>Expédition</li>
+<li>Marketing</li>
+<li>Opérations</li>
+<li>Marketplaces</li>
+<li>Emailing</li>
+<li>Paiement</li>
+</ul>
+<h2 style="color: #509924">Se lancer</h2>
+<p>Pour parcourir les nombreuses fonctionnalités pré-intégrées de PrestaShop, rendez-vous dans l&rsquo;onglet Modules de votre back-office PrestaShop.</p>
+<p>Une fois que vous avez jeté un œil aux fonctionnalités proposées, partez à la découverte de <a href="http://addons.prestashop.com/" target="_blank">PrestaShop Addons</a>, notre marketplace officielle, pour accéder aux milliers de modules développés par les membres de notre communauté.</p>
+<p>Vous connaissez déjà bien nos modules ? Dites-nous quel est votre préféré dans les commentaires ci-dessous.</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/les-modules-prestashop-quest-ce-cest/">Les modules PrestaShop, qu&rsquo;est-ce que c&rsquo;est ?</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/les-modules-prestashop-quest-ce-cest/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Introduction au e-commerce : qu&#8217;est-ce qu&#8217;un logiciel e-commerce ?</title>
+		<link>https://www.prestashop.com/blog/fr/introduction-au-e-commerce-quest-ce-quun-logiciel-e-commerce/</link>
+		<comments>https://www.prestashop.com/blog/fr/introduction-au-e-commerce-quest-ce-quun-logiciel-e-commerce/#comments</comments>
+		<pubDate>Mon, 23 Mar 2015 08:30:14 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Actualités PrestaShop]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=18511</guid>
+		<description><![CDATA[<p>Vous êtes un développeur chevronné et vous avez du mal à expliquer à vos clients ce qu&#8217;est un logiciel e-commerce ? Ou bien vous êtes un futur e-commerçant et vous recherchez des solutions e-commerce pour votre boutique ? Peu importe pourquoi vous vous demandez ce qu&#8217;est un logiciel e-commerce, l&#8217;article d&#8217;aujourd&#8217;hui vous apportera une réponse [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/introduction-au-e-commerce-quest-ce-quun-logiciel-e-commerce/">Introduction au e-commerce : qu&rsquo;est-ce qu&rsquo;un logiciel e-commerce ?</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Vous êtes un développeur chevronné et vous avez du mal à expliquer à vos clients ce qu&rsquo;est un <a href="https://www.prestashop.com/fr">logiciel e-commerce</a> ? Ou bien vous êtes un futur e-commerçant et vous recherchez des solutions e-commerce pour votre boutique ?</p>
+<p>Peu importe <span style="font-style: italic;">pourquoi</span> vous vous demandez ce qu&rsquo;est un logiciel e-commerce, l&rsquo;article d&rsquo;aujourd&rsquo;hui vous apportera une réponse claire.<br />
+<span id="more-18511"></span></p>
+<p>Un logiciel e-commerce, également appelé solution de création de site e-commerce ou de boutique en ligne ou encore plateforme e-commerce, a un objectif précis :</p>
+<p>Vous permettre de vendre vos produits en ligne.</p>
+<p>Ce logiciel a pour principale fonction de gérer trois aspects clés, essentiels à la réussite de toute boutique en ligne :</p>
+<ul style="padding-left: 30px;">
+<li>les produits</li>
+<li>les commandes</li>
+<li>les clients</li>
+</ul>
+<p>Regardons de plus près comment un logiciel e-commerce peut vous aider dans ces différents domaines.</p>
+<h2 style="color: #74bc3f;"><img style="margin-right: 2px;" alt="tag" src="http://www.prestashop.com/blog/fr/files/2015/03/tag.png" width="50" height="50" /> Catalogue de produits</h2>
+<p>Avant de vous lancer dans la vente en ligne, vous devez définir ce que vous allez vendre, en d&rsquo;autres termes, vos produits. Il peut s&rsquo;agir de produits matériels comme des chemises ou des ordinateurs, ou bien de <a href="https://www.prestashop.com/blog/fr/les-5-avantages-vente-produits-numeriques-en-ligne/">produits numériques</a>, comme de la musique ou des <a href="http://addons.prestashop.com/fr/3-themes-prestashop" target="_blank">thèmes</a>.</p>
+<p>Dans tous les cas, il vous faudra un catalogue de produits pour gérer le tout. Cet outil vous permet de stocker les informations produits suivantes :</p>
+<ul style="padding-left: 30px;">
+<li>nom</li>
+<li>description</li>
+<li>prix</li>
+<li>image(s)</li>
+<li>quantité en stock</li>
+</ul>
+<p>En plus de ces informations générales, d&rsquo;autres fonctionnalités avancées peuvent être intégrées à votre catalogue :</p>
+<ul style="padding-left: 30px;">
+<li>attributs des produits (taille, couleur, etc.) &#8211; pour offrir d&rsquo;autres options à vos clients</li>
+<li>produits associés – pour associer des produits complémentaires et booster vos ventes</li>
+<li>références – pour organiser vos produits</li>
+<li>catégories de produits – pour regrouper vos produits en catégories et améliorer l&rsquo;expérience d&rsquo;achat</li>
+<li>personnalisation du produit – pour permettre à vos clients de personnaliser le produit avec leurs propres images ou textes</li>
+<li>référencement (URL conviviale, balises méta) – pour aider vos clients potentiels à trouver votre produit</li>
+<li>bons d&rsquo;achat et réductions – pour inciter vos clients à acheter</li>
+</ul>
+<h2 style="color: #74bc3f;"><img style="margin-right: 2px;" alt="panier" src="http://www.prestashop.com/blog/fr/files/2015/03/panier.png" width="50" height="50" /> Système de commande</h2>
+<p>Maintenant que vous pouvez mettre vos produits en vitrine, vos clients peuvent les acheter. C&rsquo;est là que le système de commande entre en jeu. Il permet aux clients d&rsquo;ajouter des articles à leur panier, de calculer le montant total et de disposer des informations nécessaires pour traiter la commande.</p>
+<p>Parmi les informations obtenues lors du processus de commande figurent :</p>
+<ul style="padding-left: 30px;">
+<li>le(s) produit(s) acheté(s)</li>
+<li>les frais de port ou autres associés à la commande</li>
+<li>l&rsquo;adresse de livraison</li>
+<li>l&rsquo;adresse de facturation</li>
+<li>la méthode de paiement</li>
+</ul>
+<p>Fonctionnalités complémentaires :</p>
+<ul style="padding-left: 30px;">
+<li>Intégration avec des <a href="https://www.prestashop.com/fr/modules-de-paiement">modules de paiement</a> – pour offrir une solution de paiement et conclure la vente immédiatement.</li>
+<li>Intégration avec une <a href="http://addons.prestashop.com/fr/6-transport-logistique-livraison-modules-prestashop" target="_blank">solution d&rsquo;expédition</a> – pour synchroniser les informations de la commande avec une solution d&rsquo;expédition et ainsi traiter la commande de manière plus fluide.</li>
+</ul>
+<p><span style="font-style: italic;">Système de commande et catalogue de produits</span><br />
+Une fois la commande passée, le travail du système de commande n&rsquo;est pas terminé puisqu&rsquo;il déduit ensuite le nombre de produits vendus de votre stock afin que le catalogue de produits reflète le nombre exact de produits disponibles à la vente.</p>
+<h2 style="color: #74bc3f;"><img style="margin-right: 2px;" alt="user" src="http://www.prestashop.com/blog/fr/files/2015/03/user.png" width="50" height="50" /> Gestion de la clientèle</h2>
+<p>La gestion des relations clients est le dernier volet de la solution e-commerce. Le rapport e-commerçant/client ne doit pas s&rsquo;arrêter une fois la commande finalisée. Bien évidemment, vous espérez que les clients reviendront pour de nouveaux achats. Néanmoins, vos échanges impliqueront parfois de traiter des demandes d&rsquo;échange ou de remboursement. Ce ne sont pas forcément des expériences négatives. Vous pouvez saisir ces occasions pour démontrer la qualité de votre service après-vente.</p>
+<p>Aussi, votre solution doit vous aider à gérer vos relations clients en recueillant et en stockant les informations suivantes :</p>
+<ul style="padding-left: 30px;">
+<li>nom du client</li>
+<li>coordonnées (e-mail ou téléphone)</li>
+<li>adresse de livraison</li>
+<li>historique des commandes</li>
+</ul>
+<p>D&rsquo;autres informations peuvent également être utiles :</p>
+<ul style="padding-left: 30px;">
+<li>adresse de facturation – pour accélérer le processus de renouvellement de commande et de remboursement</li>
+<li>date d&rsquo;anniversaire – pour proposer des offres d&rsquo;anniversaire ou vérifier l&rsquo;âge d&rsquo;un client</li>
+<li>historique des commandes par produit – pour découvrir les produits plébiscités par vos clients</li>
+<li>date d&rsquo;inscription – pour savoir depuis combien de temps les utilisateurs sont clients</li>
+<li>historique de contact – pour garder une trace des précédents contacts avec les clients</li>
+</ul>
+<p>L&rsquo;augmentation du nombre d&rsquo;e-commerçants a entraîné une augmentation du nombre de solutions e-commerce qui se disputent leur attention. Mais PrestaShop a le privilège unique de compter sur une communauté de plus de 700 000 personnes qui participent à son développement continu partout dans le monde. Notre <a href="https://github.com/PrestaShop/PrestaShop" target="_blank">communauté sur GitHub</a> a contribué à ajouter 300 fonctionnalités à notre solution open source. Pour obtenir une liste actualisée des dernières fonctionnalités, consultez l&rsquo;article sur <a href="https://www.prestashop.com/blog/fr/version-1-6-a-la-decouverte-du-nouveau-back-office/">la toute dernière version de PrestaShop</a>.</p>
+<p>Visitez notre site Web pour découvrir <a href="https://www.prestashop.com/fr/solution-e-commerce">davantage de fonctionnalités</a> ou pour vous lancer et tester le logiciel grâce à <a href="http://demo.prestashop.com/fr/?view=back" target="_blank">notre démo</a>. Vous avez d&rsquo;autres questions sur les concepts de base du logiciel e-commerce ? Dites-nous tout dans les commentaires ci-dessous</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/introduction-au-e-commerce-quest-ce-quun-logiciel-e-commerce/">Introduction au e-commerce : qu&rsquo;est-ce qu&rsquo;un logiciel e-commerce ?</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/introduction-au-e-commerce-quest-ce-quun-logiciel-e-commerce/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

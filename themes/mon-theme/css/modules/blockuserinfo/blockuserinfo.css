@@ -1,0 +1,46 @@
+.header_user_info {
+  position: absolute;
+  border-left: 1px solid #515151;
+  border-right: 1px solid #515151;
+  right: 229px;
+  width: 200px;
+  text-align: center;
+  z-index: 12;
+  height: 37px;
+  top: -100px;  }
+@media (max-width: 767px) {
+	.header_user_info {
+		right: 209px;
+		width: 200px;
+		top: -120px;  } }
+.div-logout {
+  right: 428px;
+  width: auto;  }
+@media (max-width: 767px) {
+	.div-logout {
+		right: 407px;  } }
+.login {
+  right: -198px;
+  width: auto;
+  position: absolute;
+  border-right: 2px solid #555;
+  padding-right: 52px !important;
+  padding-left: 51px !important;  }
+  .header_user_info a {
+    color: #fff;
+    font-weight: bold;
+    display: block;
+    padding: 8px 9px 11px 8px;
+    cursor: pointer;
+    line-height: 18px; }
+   .header_user_info a img {
+    margin-top: -4px;
+	height: 23px;
+    width: auto;	}
+    @media (max-width: 479px) {
+      .header_user_info a {
+        font-size: 11px; } }
+    .header_user_info a:hover, .header_user_info a.active {
+      background: #2b2b2b; }
+
+/*# sourceMappingURL=blockuserinfo.css.map */
